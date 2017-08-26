@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Whats the Weather</string>
+
+    <string-array name="Temp">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+
+</resources>

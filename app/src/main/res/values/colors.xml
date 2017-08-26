@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d52a0159</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="weatherColor">#b2ffffff</color>
+    <color name="weatherColor2">#c0020202</color>
+    <color name="cityName">#44ffffff</color>
+    <color name="buttonColor">#c0000000</color>
+    <color name="backgroundLightNew">#a4ffffff</color>
+</resources>
